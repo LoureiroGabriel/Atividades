@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99cf5006-43fb-4b3a-bb90-29c288620366" name="Changes" comment="criação ex 4;&#10;atualizações;" />
+    <list default="true" id="99cf5006-43fb-4b3a-bb90-29c288620366" name="Changes" comment="criação ex 4;&#10;atualizações;">
+      <change afterPath="$PROJECT_DIR$/src/pratica2/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pratica1/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pratica1/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pratica1/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pratica1/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex4.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,19 +50,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/GabrielLoureiro/Documents/git_faculdade/programacao_segunda/atividades",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex1" />
@@ -81,6 +89,7 @@
       <workItem from="1694452935897" duration="239000" />
       <workItem from="1694453192486" duration="2367000" />
       <workItem from="1694457001149" duration="302000" />
+      <workItem from="1694457555285" duration="315000" />
     </task>
     <servers />
   </component>
