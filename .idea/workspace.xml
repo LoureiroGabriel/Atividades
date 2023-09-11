@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99cf5006-43fb-4b3a-bb90-29c288620366" name="Changes" comment="criação ex 4;&#10;atualizações;">
-      <change beforePath="$PROJECT_DIR$/src/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex4.java" afterDir="false" />
-    </list>
+    <list default="true" id="99cf5006-43fb-4b3a-bb90-29c288620366" name="Changes" comment="criação ex 4;&#10;atualizações;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +80,7 @@
       <updated>1694452934877</updated>
       <workItem from="1694452935897" duration="239000" />
       <workItem from="1694453192486" duration="2367000" />
+      <workItem from="1694457001149" duration="302000" />
     </task>
     <servers />
   </component>
