@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99cf5006-43fb-4b3a-bb90-29c288620366" name="Changes" comment="criação ex 4;&#10;atualizações;">
-      <change beforePath="$PROJECT_DIR$/estudo/aula1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula1.java" afterDir="false" />
+    <list default="true" id="99cf5006-43fb-4b3a-bb90-29c288620366" name="Changes" comment="criação pasta aula 1 java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,8 +88,17 @@
       <workItem from="1694459942398" duration="34000" />
       <workItem from="1694460010798" duration="644000" />
       <workItem from="1694468275826" duration="3107000" />
-      <workItem from="1694547668945" duration="326000" />
+      <workItem from="1694547668945" duration="1232000" />
     </task>
+    <task id="LOCAL-00001" summary="criação pasta aula 1 java">
+      <option name="closed" value="true" />
+      <created>1694548053910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694548053910</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="criação pasta aula 1 java" />
+    <option name="LAST_COMMIT_MESSAGE" value="criação pasta aula 1 java" />
   </component>
 </project>
