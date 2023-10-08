@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99cf5006-43fb-4b3a-bb90-29c288620366" name="Changes" comment="criação pasta aula 1 java">
+      <change afterPath="$PROJECT_DIR$/src/pratica1/ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pratica1/ex8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pratica1/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pratica1/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pratica1/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pratica1/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pratica1/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pratica1/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +99,7 @@
       <workItem from="1694468275826" duration="3107000" />
       <workItem from="1694547668945" duration="2048000" />
       <workItem from="1694551427313" duration="2340000" />
-      <workItem from="1696781523128" duration="2212000" />
+      <workItem from="1696781523128" duration="3157000" />
     </task>
     <task id="LOCAL-00001" summary="criação pasta aula 1 java">
       <option name="closed" value="true" />
