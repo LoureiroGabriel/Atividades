@@ -18,31 +18,31 @@ public class ex9 {
         System.out.print("Escolha o planeta (1-7): ");
         int escolhaPlaneta = scanner.nextInt();
 
-        double g;  // Aceleração devido à gravidade
-        double h0 = 0;  // Altura inicial
+        double g;
+        double h0 = 0;
 
-        // Definir a aceleração baseado no planeta escolhido
+
         switch (escolhaPlaneta) {
             case 1:
-                g = 3.7;  // m/s^2 (Aceleração devido à gravidade em Mercúrio)
+                g = 3.7;
                 break;
             case 2:
-                g = 8.87;  // m/s^2 (Aceleração devido à gravidade em Vênus)
+                g = 8.87;
                 break;
             case 3:
-                g = 9.81;  // m/s^2 (Aceleração devido à gravidade na Terra)
+                g = 9.81;  
                 break;
             case 4:
-                g = 3.71;  // m/s^2 (Aceleração devido à gravidade em Marte)
+                g = 3.71;
                 break;
             case 5:
-                g = 24.79;  // m/s^2 (Aceleração devido à gravidade em Júpiter)
+                g = 24.79;
                 break;
             case 6:
-                g = 10.44;  // m/s^2 (Aceleração devido à gravidade em Saturno)
+                g = 10.44;
                 break;
             case 7:
-                g = 8.69;  // m/s^2 (Aceleração devido à gravidade em Urano)
+                g = 8.69;
                 break;
             default:
                 System.out.println("Planeta não reconhecido.");
