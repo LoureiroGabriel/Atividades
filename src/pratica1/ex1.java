@@ -3,7 +3,7 @@ package pratica1;
 import java.util.Scanner;
 
 public class ex1 {
-//Primeira Forma
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

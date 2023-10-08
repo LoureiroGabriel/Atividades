@@ -30,7 +30,7 @@ public class ex9 {
                 g = 8.87;
                 break;
             case 3:
-                g = 9.81;  
+                g = 9.81;
                 break;
             case 4:
                 g = 3.71;
