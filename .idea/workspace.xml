@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="99cf5006-43fb-4b3a-bb90-29c288620366" name="Changes" comment="criação pasta aula 1 java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudo/cap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudo/cap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pratica1/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pratica1/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica1/ex6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +93,7 @@
       <workItem from="1694468275826" duration="3107000" />
       <workItem from="1694547668945" duration="2048000" />
       <workItem from="1694551427313" duration="2340000" />
-      <workItem from="1696781523128" duration="1403000" />
+      <workItem from="1696781523128" duration="2212000" />
     </task>
     <task id="LOCAL-00001" summary="criação pasta aula 1 java">
       <option name="closed" value="true" />
