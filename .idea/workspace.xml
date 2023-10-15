@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99cf5006-43fb-4b3a-bb90-29c288620366" name="Changes" comment="criação pasta aula 1 java">
-      <change afterPath="$PROJECT_DIR$/src/pratica3/ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pratica3/ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pratica3/ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pratica8/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pratica8/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pratica8/ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pratica8/ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pratica8/ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pratica8/ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pratica8/ex7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pratica3/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratica3/ex1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +47,16 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2VGCGbe5BJLay8vkMeRelzZgRhc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -95,7 +101,8 @@
       <workItem from="1694468275826" duration="3107000" />
       <workItem from="1694547668945" duration="2048000" />
       <workItem from="1694551427313" duration="2340000" />
-      <workItem from="1696781523128" duration="7296000" />
+      <workItem from="1696781523128" duration="8101000" />
+      <workItem from="1697387184221" duration="1333000" />
     </task>
     <task id="LOCAL-00001" summary="criação pasta aula 1 java">
       <option name="closed" value="true" />
@@ -123,6 +130,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="criação pasta aula 1 java" />
     <option name="LAST_COMMIT_MESSAGE" value="criação pasta aula 1 java" />
   </component>
